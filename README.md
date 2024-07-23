@@ -1,5 +1,7 @@
 ## DEEPFAKE DETECTION USING DEEP LEARNING
-#### INTRODUCTION: 
-The aim of this project is detection of video deepfakes using deep learning techniques.A model is trained using CNN and it can predict if the video is fake or real.
+#### Introduction: 
+Deepfake technology, powered by advanced deep learning algorithms, has emerged as a major threat to society.Deepfakes are synthetic media in which a person in an existing image or video is replaced with someone else.This project focuses on detection of video deepfakes using deep learning based models  CNN, ResNext and LSTM.
 #### System Architecture:
-![image](https://github.com/Bhargavisingampalli/Deep_Fake_Detection/assets/150596634/d20fd66e-734f-4fc2-8501-ffe47b70e120)
+![image](https://github.com/user-attachments/assets/f286ef66-8143-4bba-8dba-aab96b6e9ad8)
+#### Result:
+The model's output will comprise a binary classification indicating whether the input is a fake or a real video.
